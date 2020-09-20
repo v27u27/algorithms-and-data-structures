@@ -25,6 +25,8 @@ npm install dsa-ts --save
 yarn add dsa-ts
 ```
 
+[Medium Blog covering these topics](https://medium.com/hackernoon/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed#9cb9)
+
 ## Data Structures
 
 - [ ] Sequences
